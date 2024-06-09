@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shady</h1>
-<h3 align="center">A passionate AI developer.</h3>
+<h3 align="center">Passionate AI Developer specializing in machine learning, NLP, and computer vision. Committed to pushing boundaries and delivering innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadim0hamed&label=Profile%20views&color=0e75b6&style=flat" alt="shadim0hamed" /> </p>
 
